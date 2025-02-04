@@ -34,5 +34,4 @@
 
 ###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pmgfernandes04&show_icons=true&locale=en" alt="pmgfernandes04" /></p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pmgfernandes04&show_icons=true&theme=gotham" alt="pmgfernandes04" />
