@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently ending a bachelor in Artificial Intelligence and Data Science in FCUP<br>🎲 Fun fact: Can solve a Rubik's cube in under a minute</p>
+<p align="left">📚 I'm currently ending a bachelor in Artificial Intelligence and Data Science in FCUP<br>🎲 Fun fact: Can solve a Rubik's cube in under 45s</p>
 
 ###
 
